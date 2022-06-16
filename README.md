@@ -324,15 +324,23 @@ echo  wine_extract($appened);
 
 ```
 
+<hr /> 
+
+<h2>Installing PHPWine v1.4 : | <a href="https://www.youtube.com/watch?v=QcwzWYupqd0&list=PLz1uhXS-qzpR3zRoq0IXvBmPofuTyR87J&index=1"> Watch PHPWine Playlist Click here > </a>
+</h2>
+<center>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/svSWQ3ESKPg/0.jpg)](https://www.youtube.com/watch?v=svSWQ3ESKPg&list=PLz1uhXS-qzpR3zRoq0IXvBmPofuTyR87J&index=3)
+
+</center>
+<hr /> 
+
 <h2>Thanks To:</h2>
 <h5>
 Github : To allow me to upload my PHPWine plugin Vanilla Flavour to repository<br /> 
 php.net : To oppurtunity Develop web application using corePHP - PHPFrameworks<br />
 </h5>
 
-
-<br />
-<br />
 <hr />
 Would you like me to treat a cake and coffee ? <br />
 Become a donor, Because with you! We can build more... 
